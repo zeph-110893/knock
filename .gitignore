@@ -1,0 +1,29 @@
+# Python compiled and cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+
+# Log files
+*.log
+
+# SQLite databases
+*.db
+*.sqlite3
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.swp
